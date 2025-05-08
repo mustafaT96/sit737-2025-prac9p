@@ -1,0 +1,5 @@
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
+{"level":"error","message":"Error: Division by zero is not allowed.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}

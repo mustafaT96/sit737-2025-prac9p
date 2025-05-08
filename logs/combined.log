@@ -1,0 +1,9 @@
+{"level":"info","message":"Addition requested: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction requested: 10 - 5 = 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication requested: 10 * 5 = 50","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Division requested: 10 / 5 = 2","service":"calculator-microservice"}
+{"level":"error","message":"Error: Division by zero is not allowed.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
